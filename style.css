@@ -8,3 +8,11 @@ body {
     background-color: crimson;
     color: blue;
 }
+
+header {
+    background-color: cornflowerblue;
+}
+
+footer {
+    background-color: blue;
+}
